@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.9",
     "koa": "^2.11.0",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
